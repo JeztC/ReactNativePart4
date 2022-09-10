@@ -1,0 +1,16 @@
+node_modules/
+.expo/
+dist/
+.idea
+npm-debug.*
+.eslintrc
+*.jks
+*.p8git
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+.env
+# macOS
+.DS_Store
